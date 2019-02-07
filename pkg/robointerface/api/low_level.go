@@ -1,7 +1,7 @@
 package api
 
 /*
-#cgo LDFLAGS: -L/usr/local/lib/ -lroboint
+#cgo LDFLAGS: -L../../../libs -lroboint
 #include "roboint.h"
 */
 import "C"
